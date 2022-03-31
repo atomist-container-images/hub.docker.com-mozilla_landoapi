@@ -1,6 +1,8 @@
-# Tags: develop-latest, 3c2f04fd5350f91cdc236509e132814e7b88ac8e
-FROM mozilla/landoapi:develop-latest
-FROM mozilla/landoapi:3c2f04fd5350f91cdc236509e132814e7b88ac8e
+# Tags: ced45c47966482864fd58c95abc5a25dd49dc5ca
+FROM mozilla/landoapi:ced45c47966482864fd58c95abc5a25dd49dc5ca
 
-# Tags: latest
-FROM mozilla/landoapi:latest
+# Tags: f7595f33600eef259dc174e3ec4cf2ea0de675c2
+FROM mozilla/landoapi:f7595f33600eef259dc174e3ec4cf2ea0de675c2
+
+# Tags: 7e0909bf8e1485304ab604eeb0d0aaf3e2cc7266
+FROM mozilla/landoapi:7e0909bf8e1485304ab604eeb0d0aaf3e2cc7266
