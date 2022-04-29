@@ -1,8 +1,54 @@
+# Tags: 3bacb45b649e86fc4b780130cd96fb3bdbfcb1cd
+FROM mozilla/landoapi:3bacb45b649e86fc4b780130cd96fb3bdbfcb1cd
+
+# Tags: c4a33973dfeadd659746adb3d7cc430e84c00b60
+FROM mozilla/landoapi:c4a33973dfeadd659746adb3d7cc430e84c00b60
+
+# Tags: 6edcaff91644794a0039dfc2eaeab0de17abc15b
+FROM mozilla/landoapi:6edcaff91644794a0039dfc2eaeab0de17abc15b
+
+# Tags: develop-latest, a4501b4b4ff06698adede7825a87ae3bc4eef1a4
+FROM mozilla/landoapi:develop-latest
+FROM mozilla/landoapi:a4501b4b4ff06698adede7825a87ae3bc4eef1a4
+
+# Tags: 89c909634f90df241d0cfe6d8b120d61f2511b89
+FROM mozilla/landoapi:89c909634f90df241d0cfe6d8b120d61f2511b89
+
+# Tags: 786ef1e5b9eade8ed592e2a128f24345aadfd89d
+FROM mozilla/landoapi:786ef1e5b9eade8ed592e2a128f24345aadfd89d
+
+# Tags: fa60c5f7dc4ccc5b56dd98907112c20ac3756c90
+FROM mozilla/landoapi:fa60c5f7dc4ccc5b56dd98907112c20ac3756c90
+
+# Tags: 1bafe40d4c57bf43608172aa67e9839893c443e8
+FROM mozilla/landoapi:1bafe40d4c57bf43608172aa67e9839893c443e8
+
+# Tags: a6bc47e3a85285e76b33330629e6ec08b2a15b12
+FROM mozilla/landoapi:a6bc47e3a85285e76b33330629e6ec08b2a15b12
+
+# Tags: c6551e8f2551c613566f94b3a987a1eb92e8ea56
+FROM mozilla/landoapi:c6551e8f2551c613566f94b3a987a1eb92e8ea56
+
+# Tags: 8bc9fb9e4f6e46f5c0e61b890b043c12dec92c94
+FROM mozilla/landoapi:8bc9fb9e4f6e46f5c0e61b890b043c12dec92c94
+
+# Tags: 6e140a8c541e107777acd6268bcbe96376d67654
+FROM mozilla/landoapi:6e140a8c541e107777acd6268bcbe96376d67654
+
+# Tags: 1782db062d62513e789513dfdbef9f601bdb24a5
+FROM mozilla/landoapi:1782db062d62513e789513dfdbef9f601bdb24a5
+
+# Tags: ccbe8e3d4e3188bf40a7744f4507b8803c808a37
+FROM mozilla/landoapi:ccbe8e3d4e3188bf40a7744f4507b8803c808a37
+
+# Tags: 2092b6efeb9be640cfef41175cb90e215c06008d
+FROM mozilla/landoapi:2092b6efeb9be640cfef41175cb90e215c06008d
+
+# Tags: c94d8179d66e531385405961d9e2a50cad26364b
+FROM mozilla/landoapi:c94d8179d66e531385405961d9e2a50cad26364b
+
+# Tags: 8521ef1ddcf75cafe7499073147502b3eea60fb3
+FROM mozilla/landoapi:8521ef1ddcf75cafe7499073147502b3eea60fb3
+
 # Tags: ced45c47966482864fd58c95abc5a25dd49dc5ca
 FROM mozilla/landoapi:ced45c47966482864fd58c95abc5a25dd49dc5ca
-
-# Tags: f7595f33600eef259dc174e3ec4cf2ea0de675c2
-FROM mozilla/landoapi:f7595f33600eef259dc174e3ec4cf2ea0de675c2
-
-# Tags: 7e0909bf8e1485304ab604eeb0d0aaf3e2cc7266
-FROM mozilla/landoapi:7e0909bf8e1485304ab604eeb0d0aaf3e2cc7266
